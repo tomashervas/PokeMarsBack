@@ -1,0 +1,297 @@
+[
+    {
+        "id": 144,
+        "nombre": "articuno",
+        "liberado": false
+    },
+    {
+        "id": 145,
+        "nombre": "zapdos",
+        "liberado": false
+    },
+    {
+        "id": 146,
+        "nombre": "moltres",
+        "liberado": false
+    },
+    {
+        "id": 150,
+        "nombre": "mewtwo",
+        "liberado": true
+    },
+    {
+        "id": 243,
+        "nombre": "raikou",
+        "liberado": false
+    },
+    {
+        "id": 244,
+        "nombre": "entei",
+        "liberado": false
+    },
+    {
+        "id": 245,
+        "nombre": "suicune",
+        "liberado": false
+    },
+    {
+        "id": 249,
+        "nombre": "lugia",
+        "liberado": false
+    },
+    {
+        "id": 250,
+        "nombre": "ho-oh",
+        "liberado": false
+    },
+    {
+        "id": 381,
+        "nombre": "latios",
+        "liberado": false
+    },
+    {
+        "id": 382,
+        "nombre": "kyogre",
+        "liberado": false
+    },
+    {
+        "id": 384,
+        "nombre": "rayquaza",
+        "liberado": false
+    },
+    {
+        "id": 377,
+        "nombre": "regirock",
+        "liberado": false
+    },
+    {
+        "id": 378,
+        "nombre": "regice",
+        "liberado": false
+    },
+    {
+        "id": 379,
+        "nombre": "registeel",
+        "liberado": false
+    },
+    {
+        "id": 380,
+        "nombre": "latias",
+        "liberado": false
+    },
+    {
+        "id": 383,
+        "nombre": "groudon",
+        "liberado": false
+    },
+    {
+        "id": 480,
+        "nombre": "uxie",
+        "liberado": false
+    },
+    {
+        "id": 481,
+        "nombre": "mesprit",
+        "liberado": false
+    },
+    {
+        "id": 482,
+        "nombre": "azelf",
+        "liberado": false
+    },
+    {
+        "id": 483,
+        "nombre": "dialga",
+        "liberado": false
+    },
+    {
+        "id": 484,
+        "nombre": "palkia",
+        "liberado": false
+    },
+    {
+        "id": 485,
+        "nombre": "heatran",
+        "liberado": false
+    },
+    {
+        "id": 486,
+        "nombre": "regigigas",
+        "liberado": false
+    },
+    {
+        "id": 487,
+        "nombre": "giratina",
+        "liberado": false
+    },
+    {
+        "id": 488,
+        "nombre": "cresselia",
+        "liberado": false
+    },
+    {
+        "id": 638,
+        "nombre": "cobalion",
+        "liberado": false
+    },
+    {
+        "id": 639,
+        "nombre": "terrakion",
+        "liberado": false
+    },
+    {
+        "id": 640,
+        "nombre": "virizion",
+        "liberado": false
+    },
+    {
+        "id": 641,
+        "nombre": "tornadus",
+        "liberado": false
+    },
+    {
+        "id": 642,
+        "nombre": "thundurus",
+        "liberado": false
+    },
+    {
+        "id": 643,
+        "nombre": "reshiram",
+        "liberado": false
+    },
+    {
+        "id": 644,
+        "nombre": "zekrom",
+        "liberado": false
+    },
+    {
+        "id": 645,
+        "nombre": "landorus",
+        "liberado": false
+    },
+    {
+        "id": 646,
+        "nombre": "kyurem",
+        "liberado": false
+    },
+    {
+        "id": 716,
+        "nombre": "xerneas",
+        "liberado": false
+    },
+    {
+        "id": 717,
+        "nombre": "yveltal",
+        "liberado": false
+    },
+    {
+        "id": 718,
+        "nombre": "zygarde",
+        "liberado": false
+    },
+    {
+        "id": 773,
+        "nombre": "silvally",
+        "liberado": false
+    },
+    {
+        "id": 785,
+        "nombre": "tapu-koko",
+        "liberado": false
+    },
+    {
+        "id": 786,
+        "nombre": "tapu-lele",
+        "liberado": false
+    },
+    {
+        "id": 787,
+        "nombre": "tapu-bulu",
+        "liberado": false
+    },
+    {
+        "id": 788,
+        "nombre": "tapu-fini",
+        "liberado": false
+    },
+    {
+        "id": 789,
+        "nombre": "cosmog",
+        "liberado": false
+    },
+    {
+        "id": 790,
+        "nombre": "cosmoem",
+        "liberado": false
+    },
+    {
+        "id": 791,
+        "nombre": "solgaleo",
+        "liberado": false
+    },
+    {
+        "id": 792,
+        "nombre": "lunala",
+        "liberado": false
+    },
+    {
+        "id": 800,
+        "nombre": "necrozma",
+        "liberado": false
+    },
+    {
+        "id": 888,
+        "nombre": "zacian",
+        "liberado": false
+    },
+    {
+        "id": 889,
+        "nombre": "zamazenta",
+        "liberado": false
+    },
+    {
+        "id": 890,
+        "nombre": "eternatus",
+        "liberado": false
+    },
+    {
+        "id": 891,
+        "nombre": "kubfu",
+        "liberado": false
+    },
+    {
+        "id": 892,
+        "nombre": "urshifu",
+        "liberado": false
+    },
+    {
+        "id": 894,
+        "nombre": "regieleki",
+        "liberado": false
+    },
+    {
+        "id": 895,
+        "nombre": "regidrago",
+        "liberado": false
+    },
+    {
+        "id": 896,
+        "nombre": "glastrier",
+        "liberado": false
+    },
+    {
+        "id": 905,
+        "nombre": "enamorus",
+        "liberado": false
+    },
+    {
+        "id": 897,
+        "nombre": "spectrier",
+        "liberado": false
+    },
+    {
+        "id": 898,
+        "nombre": "calyrex",
+        "liberado": false
+    }
+]

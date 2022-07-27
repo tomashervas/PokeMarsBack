@@ -1,0 +1,112 @@
+[
+    {
+        "id": 151,
+        "nombre": "mew",
+        "liberado": true
+    },
+    {
+        "id": 251,
+        "nombre": "celebi",
+        "liberado": false
+    },
+    {
+        "id": 385,
+        "nombre": "jirachi",
+        "liberado": false
+    },
+    {
+        "id": 386,
+        "nombre": "deoxys",
+        "liberado": false
+    },
+    {
+        "id": 489,
+        "nombre": "phione",
+        "liberado": false
+    },
+    {
+        "id": 490,
+        "nombre": "manaphy",
+        "liberado": false
+    },
+    {
+        "id": 491,
+        "nombre": "darkrai",
+        "liberado": false
+    },
+    {
+        "id": 492,
+        "nombre": "shaymin",
+        "liberado": false
+    },
+    {
+        "id": 493,
+        "nombre": "arceus",
+        "liberado": false
+    },
+    {
+        "id": 494,
+        "nombre": "victini",
+        "liberado": false
+    },
+    {
+        "id": 647,
+        "nombre": "keldeo",
+        "liberado": false
+    },
+    {
+        "id": 648,
+        "nombre": "meloetta",
+        "liberado": false
+    },
+    {
+        "id": 649,
+        "nombre": "genesect",
+        "liberado": false
+    },
+    {
+        "id": 719,
+        "nombre": "diancie",
+        "liberado": false
+    },
+    {
+        "id": 721,
+        "nombre": "volcanion",
+        "liberado": false
+    },
+    {
+        "id": 720,
+        "nombre": "hoopa",
+        "liberado": false
+    },
+    {
+        "id": 801,
+        "nombre": "magearna",
+        "liberado": false
+    },
+    {
+        "id": 802,
+        "nombre": "marshadow",
+        "liberado": false
+    },
+    {
+        "id": 807,
+        "nombre": "zeraora",
+        "liberado": false
+    },
+    {
+        "id": 808,
+        "nombre": "meltan",
+        "liberado": false
+    },
+    {
+        "id": 809,
+        "nombre": "melmetal",
+        "liberado": false
+    },
+    {
+        "id": 893,
+        "nombre": "zarude",
+        "liberado": false
+    }
+]
