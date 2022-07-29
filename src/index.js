@@ -9,7 +9,7 @@ const validoHasta = new Date(2022,7,31).getTime()
 const nuevos = [150,151]
 
 app.use(cors());
-app.use(bodyParser.json());
+app.use(express.json());
 
 
 app.get('/',async (req, res) => {    
