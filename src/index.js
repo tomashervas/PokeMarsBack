@@ -1,8 +1,7 @@
-
-const bodyParser = require('body-parser');
-const express = require('express');
+import bodyParser from "body-parser";
+import express from "express";
+import cors from 'cors';
 const app = express();
-const cors = require('cors');
 const miticos = require('./miticos.json');
 const legendarios = require('./legendarios.json') 
  
@@ -15,7 +14,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.raw({ type: "application/vnd.custom-type" }));
 app.use(bodyParser.text({ type: "text/html" }));
 
-app.get('/', (req, res) => {    
+app.get('/', async (req, res) => {    
     res.json(
         {
             validoHasta,
