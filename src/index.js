@@ -5,8 +5,8 @@ const miticos = require('./miticos.json');
 const legendarios = require('./legendarios.json') 
  
 const port = process.env.PORT || 3333;
-const validoHasta = new Date(2022,7,31).getTime()
-const nuevos = [150,151]
+const validoHasta = new Date(2022,8,11).getTime()
+const nuevos = [150,151,888]
 
 app.use(cors());
 app.use(express.json());
@@ -26,3 +26,5 @@ app.get('/',async (req, res) => {
 app.listen(port,()=>{
     console.log(`Servidor escuchando en el puerto ${port}`);
 });
+
+module.exports = app;
