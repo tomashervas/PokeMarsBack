@@ -6,7 +6,7 @@ const legendarios = require('./legendarios.json')
  
 const port = process.env.PORT || 3333;
 const validoHasta = new Date(2022,10,1).getTime()
-const nuevos = [493,144]
+const nuevos = [721,146]
 
 app.use(cors());
 app.use(express.json());
