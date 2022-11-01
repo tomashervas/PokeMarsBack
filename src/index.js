@@ -5,7 +5,7 @@ const miticos = require('./miticos.json');
 const legendarios = require('./legendarios.json') 
  
 const port = process.env.PORT || 3333;
-const validoHasta = new Date(2022,10,1).getTime()
+const validoHasta = new Date(2022,11,1).getTime()
 const nuevos = [721,146]
 
 app.use(cors());
